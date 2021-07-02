@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ldkmarco/bustracker">
-    <img src="images/PacMan1.png" alt="PacMan" width="80" height="80">
+  
   </a>
 
   <h3 align="center">Bus Tracker, a base for a future IoT project</h3>
